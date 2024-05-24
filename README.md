@@ -13,7 +13,7 @@ BOM:
 - MCP3424-E/SL
 - 10 uF 1608(metric) capacitor x1
 - 0.1 uF 1608(metric) capacitor x1
-- (optional) 10 kOhm resister
 - 2.54mm pitch inline pin headers for arduino connection (at least 5 pin and 4 pin for each side)
-- 2.54mm pitch 2x4 pin header
+- (optional) 10 kOhm resister for pullup
+- (optional) 2.54mm pitch 2x4 pin header
 - RJ-45 inverted pins (equivalent to Molex 44620-0002 or 43860-0001)
